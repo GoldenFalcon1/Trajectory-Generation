@@ -1,4 +1,4 @@
-# Trajectory-Generation
+# Quintic Polynomial Solver
 In this exercise you will implement a quintic polynomial solver. This will let you take boundary conditions as input and generate a polynomial trajectory which matches those conditions with minimal jerk.
 
 Inputs
