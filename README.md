@@ -4,9 +4,11 @@ In this exercise you will implement a quintic polynomial solver. This will let y
 Inputs
 Your solver will take three inputs.
 
-start - [si, sii, siii]
-end - [sf, sff, sfff]
-T - The duration of maneuver in seconds.
+1.start - [si, sii, siii]
+
+2.end - [sf, sff, sfff]
+
+3.T - The duration of maneuver in seconds.
 
 # What to do 
 Implement the JMT(start, end, T) function in main.cpp
